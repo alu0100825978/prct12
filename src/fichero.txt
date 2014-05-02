@@ -1,0 +1,41 @@
+time
+elapsed_time
+1.90734863281e-06
+cpu_time
+-1399031668.0
+
+timeit
+10
+sin(1.2)= 3.09944152832e-06
+math.sin(1.2)= 2.86102294922e-06
+100
+sin(1.2)= 1.78813934326e-05
+math.sin(1.2)= 2.09808349609e-05
+1000
+sin(1.2)= 0.000169992446899
+math.sin(1.2)= 0.000205993652344
+10000
+sin(1.2)= 0.00169110298157
+math.sin(1.2)= 0.00205397605896
+100000
+sin(1.2)= 0.0145890712738
+math.sin(1.2)= 0.0204660892487
+1000000
+sin(1.2)= 0.171494007111
+math.sin(1.2)= 0.204575777054
+10000000
+sin(1.2)= 1.68726301193
+math.sin(1.2)= 2.04143500328
+
+CPU
+{'CPU type': 'Intel(R) Core(TM) i3-2330M CPU @ 2.20GHz', 'vendor ID': 'GenuineIntel', 'CPU speed': '800.000Hz', 'cache size': '3072 KB'}
+
+platform
+platform.uname()
+('Linux', 'cynthia-Aspire-5749', '3.2.0-37-generic', '#58-Ubuntu SMP Thu Jan 24 15:28:57 UTC 2013', 'i686', 'i686')
+platform.platform()
+Linux-3.2.0-37-generic-i686-with-Ubuntu-12.04-precise
+platform.python_version()
+2.7.3
+platform.python_buil()
+('default', 'Aug  1 2012 05:16:07')
